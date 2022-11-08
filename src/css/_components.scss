@@ -403,7 +403,7 @@
     background-size: cover;
 
     //Newer browsers - mask/feature query 
-    @supports (-webkit-mask-image: url() or (mask-image: url())) {
+    @supports (-webkit-mask-image: url() or (mask-image: url()))  {
       background-color: var(--color-primary);
       -webkit-mask-image: url(../img/chevron-thin-right.svg);
       -webkit-mask-size: cover;

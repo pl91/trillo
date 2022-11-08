@@ -2,14 +2,13 @@
   "name": "trillo-app",
   "version": "1.0.0",
   "description": "",
-  "main":"index.js",
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
   },
+  "browserslist": "> 0.5%, last 2 versions, Firefox ESR, not dead",
   "author": "Paul Liani",
   "license": "ISC",
-  "browserslist": "> 0.5%, last 2 versions, not dead",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "parcel": "^2.7.0"
