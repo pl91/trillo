@@ -16,10 +16,10 @@
 133C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@parcel\runtime-js\src\helpers\browser\prefetch-loader.js133118901287835819 0
 91C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\chalk\readme.md133118901282591199 0
 91C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\source-map\dist133118901287091578 1
-67C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist133123980784322253 1
+67C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist133124006538914091 1
 102C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@parcel\transformer-js\src133118901283580174 1
 111C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\htmlparser2\lib\WritableStream.d.ts133118901285992706 0
-73C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\.gitignore133123982943141212 0
+73C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\.gitignore133124007032449768 0
 93C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\commander\typings133118901284189551 1
 106C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\css-what\lib\es\index.d.ts.map133118901285073644 0
 104C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\nth-check\lib\compile.js.map133118901284813911 0
@@ -1300,7 +1300,7 @@
 117C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@babel\highlight\node_modules\ansi-styles133118901279923918 1
 97C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\svgo\lib\css-tools.js133118901287311355 0
 107C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\regions\ZM.js133118901302525778 0
-85C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\index.18dbc454.js133123980784127456 0
+85C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\index.18dbc454.js133124006537905124 0
 111C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\xhtml.js133118901302455850 0
 94C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\svgo\lib\parser.js133118901288085565 0
 99C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\svgo\lib\stringifier.js133118901290368225 0
@@ -1820,7 +1820,7 @@
 92C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\msgpackr\pack.js133118901284748981 0
 98C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\dom-serializer\lib\esm133118901285418292 1
 94C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\msgpackr\README.md133118901288220425 0
-85C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user.5348b33c.jpg133123980783637951 0
+85C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user.5348b33c.jpg133124006537840186 0
 107C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\css-select\lib\compile.d.ts.map133118901285842859 0
 101C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\msgpackr\rollup.config.js133118901284938785 0
 111C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\proxy.js133118901300003364 0
@@ -1862,7 +1862,7 @@
 105C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\mdn-data\css\definitions.json133118901284714011 0
 102C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@parcel\compressor-raw\lib133118901278195686 1
 97C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\mdn-data\css\index.js133118901279529319 0
-88C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\hotel-1.6732cd15.jpg133123980783942643 0
+88C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\hotel-1.6732cd15.jpg133124006538599419 0
 109C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\lmdb\dependencies\lz4\lib\LICENSE133118901284833891 0
 105C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@swc\helpers\src\_extends.mjs133118901291956600 0
 104C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\mdn-data\css\properties.json133118901286187501 0
@@ -2904,7 +2904,7 @@
 107C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\regions\MQ.js133118901298569828 0
 107C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\regions\MR.js133118901298584816 0
 107C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\regions\MY.js133118901298789604 0
-87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-3.406322a8.jpg133123980783398200 0
+87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-3.406322a8.jpg133124006537825203 0
 107C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\regions\NE.js133118901298879513 0
 126C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\background-clip-text.js133118901289314311 0
 107C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\regions\NF.js133118901298904488 0
@@ -3071,7 +3071,7 @@
 117C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\css-hyphens.js133118901293030500 0
 89C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\.bin\sass.ps1133118913516233152 0
 127C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\css-image-orientation.js133118901293050477 0
-78C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\index.html133123980782733878 0
+78C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\index.html133124006537315728 0
 119C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\css-image-set.js133118901293065472 0
 99C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\.bin\node-gyp-build.cmd133118901302890404 0
 125C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\css-in-out-of-range.js133118901293080450 0
@@ -3155,7 +3155,7 @@
 122C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\devicepixelratio.js133118901294523971 0
 119C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\dispatchevent.js133118901294548944 0
 120C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@parcel\transformer-html\lib\dependencies.js133118901278420456 0
-90C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\index.8c1c22dc.css.map133123980782883722 0
+90C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\index.8c1c22dc.css.map133124006537395646 0
 112C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\dnssec.js133118901294613895 0
 126C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\document-execcommand.js133118901294713789 0
 128C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\document-currentscript.js133118901294673815 0
@@ -3171,7 +3171,7 @@
 128C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\element-scroll-methods.js133118901294968514 0
 109C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\eot.js133118901295003477 0
 115C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\es6-class.js133118901295068411 0
-87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\sprite.e70822e0.svg133123980784287293 0
+87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\sprite.e70822e0.svg133124006538884123 0
 120C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\es6-generators.js133118901295083398 0
 131C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js133118901295098379 0
 116C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\caniuse-lite\data\features\es6-module.js133118901295108369 0
@@ -3696,7 +3696,7 @@
 111C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@parcel\compressor-raw\package.json133118901280783040 0
 114C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@parcel\watcher\prebuilds\darwin-arm64133118901288015631 1
 112C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@parcel\watcher\prebuilds\darwin-x64133118901288450187 1
-88C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\hotel-2.928c464c.jpg133123980783957630 0
+88C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\hotel-2.928c464c.jpg133124006538054968 0
 111C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@parcel\watcher\prebuilds\win32-x64133118901289529085 1
 131C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@parcel\watcher\prebuilds\linux-x64\node.napi.musl.node133118901290443147 0
 94C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@parcel\logger\src133118901279484367 1
@@ -4253,7 +4253,7 @@
 101C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@lezer\lr\dist\parse.d.ts133118901284519212 0
 101C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@lezer\lr\dist\stack.d.ts133118901284728998 0
 94C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@lezer\common\dist133118901284514219 1
-87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-1.f13b390a.jpg133123980783627963 0
+87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-1.f13b390a.jpg133124006537895135 0
 102C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@lezer\common\package.json133118901282386398 0
 99C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@lezer\common\README.md133118901283090678 0
 104C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@lezer\common\dist\index.cjs133118901279419438 0
@@ -4376,13 +4376,13 @@
 91C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\.bin\semver.cmd133118901302900396 0
 91C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\.bin\semver.ps1133118901302900396 0
 87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\.bin\terser133118901302985308 0
-99C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\chevron-thin-right.7f986135.svg133123980782733878 0
-88C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\favicon.8b2f57bf.png133123980783403196 0
-88C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\hotel-3.4c9517a8.jpg133123980783942643 0
-89C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\index.18dbc454.js.map133123980784247341 0
-86C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\index.8c1c22dc.css133123980782728880 0
-85C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\logo.726d37a8.png133123980783662926 0
-87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-2.4f30edbb.jpg133123980783667923 0
-87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-4.fe0efc17.jpg133123980783667923 0
-87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-5.4a06fdcf.jpg133123980783543059 0
-87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-6.7610df83.jpg133123980783667923 0
+99C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\chevron-thin-right.7f986135.svg133124006538884123 0
+88C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\favicon.8b2f57bf.png133124006538439585 0
+88C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\hotel-3.4c9517a8.jpg133124006538594423 0
+89C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\index.18dbc454.js.map133124006538069954 0
+86C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\index.8c1c22dc.css133124006537315728 0
+85C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\logo.726d37a8.png133124006537900126 0
+87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-2.4f30edbb.jpg133124006538434586 0
+87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-4.fe0efc17.jpg133124006538434586 0
+87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-5.4a06fdcf.jpg133124006537900126 0
+87C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist\user-6.7610df83.jpg133124006538444572 0
