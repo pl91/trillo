@@ -2,7 +2,7 @@
   "name": "trillo-app",
   "version": "1.0.0",
   "description": "",
-  "source": "./src/index.html",
+  "main":"index.js",
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
