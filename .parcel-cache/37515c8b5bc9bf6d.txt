@@ -19,7 +19,7 @@
 67C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\dist133124006538914091 1
 102C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\@parcel\transformer-js\src133118901283580174 1
 111C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\htmlparser2\lib\WritableStream.d.ts133118901285992706 0
-73C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\.gitignore133124007032449768 0
+73C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\.gitignore133124010783411727 0
 93C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\commander\typings133118901284189551 1
 106C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\css-what\lib\es\index.d.ts.map133118901285073644 0
 104C:\Users\Paul\Desktop\advanced-css-course-master\Trillo\trillo\node_modules\nth-check\lib\compile.js.map133118901284813911 0
