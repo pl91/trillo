@@ -1,4 +1,4 @@
-4387
+4407
 102C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133118901290702882 1
 94C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\lightningcss\node\browserslistToTargets.js133118901279194661 0
 70C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.package-lock.json133118913517956387 0
@@ -17,7 +17,7 @@
 65C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\css-tree\data133118901292116435 1
 68C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\type-fest\source133118901288415223 1
 103C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@swc\helpers\src\_class_apply_descriptor_update.mjs133118901291362208 0
-51C:\Users\Paul\Desktop\Portfolio\trillo\package.json133123941130114186 0
+51C:\Users\Paul\Desktop\Portfolio\trillo\package.json133135528428061237 0
 70C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\json5\lib\parse.js133118901283135631 0
 58C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\dotenv133118901281981814 1
 69C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\binary-extensions133118913511792707 1
@@ -25,12 +25,12 @@
 95C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\features\web-bluetooth.js133118901302071242 0
 93C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@swc\helpers\lib\_wrap_async_generator.js133118901290882696 0
 78C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\css-what\lib\es\index.d.ts133118901286497185 0
-49C:\Users\Paul\Desktop\Portfolio\trillo\.gitignore133124010783411727 0
+49C:\Users\Paul\Desktop\Portfolio\trillo\.gitignore133135524007109793 0
 97C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\runtime-browser-hmr\src\HMRRuntime.js133118901283215546 0
 65C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\source-map-js133118913513490963 1
 86C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\utils\test\urlJoin.test.js133118901290568019 0
 74C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\path-type\package.json133118901276867045 0
-43C:\Users\Paul\Desktop\Portfolio\trillo\dist133130037491084476 1
+43C:\Users\Paul\Desktop\Portfolio\trillo\dist133135860076975872 1
 117C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133118901291432136 0
 87C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\utils\src\parseCSSImport.js133118901289484126 0
 92C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\abortcontroller-polyfill\src\polyfill.js133118901284429307 0
@@ -73,10 +73,11 @@
 88C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@swc\helpers\lib\_read_only_error.js133118901290113484 0
 46C:\Users\Paul\Desktop\Portfolio\trillo\src\css133123980495647242 1
 80C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\workers\src\child.js133118901283315453 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-2.e3553e80.jpg133135529174927040 0
 72C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\electron-to-chromium133118901285353366 1
 60C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\htmlnano133118901290523065 1
 103C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\features\background-attachment.js133118901289229389 0
-53C:\Users\Paul\Desktop\Portfolio\trillo\src\index.html133123980496731137 0
+53C:\Users\Paul\Desktop\Portfolio\trillo\src\index.html133135526999068395 0
 70C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\nullthrows\LICENSE133118901278125757 0
 79C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\utils\src\stream.js133118901290418178 0
 77C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\posthtml-render\readme.md133118901281911886 0
@@ -226,7 +227,7 @@
 62C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\terser\lib133118901289833769 1
 92C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\node-resolver-core\lib\_empty.js133118901278345540 0
 102C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js133118901288165479 0
-63C:\Users\Paul\Desktop\Portfolio\trillo\src\css\_components.scss133123968304080590 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\src\css\_components.scss133135860073664259 0
 70C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\timsort\LICENSE.md133118901281167642 0
 58C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\semver133118901283185577 1
 87C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\dist\unpacker\index.js133118901296671776 0
@@ -343,6 +344,7 @@
 81C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\v8-compile-cache\CHANGELOG.md133118901280548279 0
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\regions\NL.js133118901298974417 0
 66C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\dom-serializer133118901284883837 1
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-1.04c680fb.jpg133135529154358088 0
 82C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\svgo\plugins\collapseGroups.js133118901285683024 0
 66C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\domelementtype133118901283725030 1
 86C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@swc\helpers\src\_to_primitive.mjs133118901292615924 0
@@ -938,6 +940,7 @@
 90C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\svgo\plugins\convertEllipseToCircle.js133118901286212477 0
 88C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133118901291517051 0
 76C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\utils\test\input133118901288949693 1
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-5.d99c9387.jpg133135529154358088 0
 88C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\utility-types\dist\mapped-types.d.ts133118901286177514 0
 82C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\utils\lib\index.js.map133118901291322252 0
 74C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\logger\LICENSE133118901277051859 0
@@ -1137,7 +1140,7 @@
 76C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\source-map\source-map.js133118901280243590 0
 66C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\lmdb\native.js133118901291841719 0
 75C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\terser\lib\transform.js133118901289848758 0
-66C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.8c1c22dc.css.map133130037490250336 0
+66C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.8c1c22dc.css.map133135860076756095 0
 77C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\dotenv\lib\cli-options.js133118901282531251 0
 79C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\regenerator-runtime\LICENSE133118901276742179 0
 73C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\terser\tools\exit.cjs133118901281532271 0
@@ -1359,6 +1362,7 @@
 81C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\source-map-support\LICENSE.md133118901282795976 0
 84C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\core\src\ParcelConfig.js133118901291392179 0
 80C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\source-map-support\README.md133118901283480275 0
+62C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.ff81dd70.css133135529176984934 0
 82C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\watcher\src\Watcher.cc133118901285008712 0
 92C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\source-map-support\source-map-support.js133118901281132679 0
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\regions\MK.js133118901298454948 0
@@ -1607,7 +1611,7 @@
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\css-tree\lib\syntax\node\Nth.js133118901291107469 0
 73C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\posthtml\node_modules133118901263051194 1
 73C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\posthtml\package.json133118901280433395 0
-61C:\Users\Paul\Desktop\Portfolio\trillo\dist\user.5348b33c.jpg133130037490764803 0
+61C:\Users\Paul\Desktop\Portfolio\trillo\dist\user.5348b33c.jpg133135860076396465 0
 70C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\lmdb\src\windows.c133118901290647943 0
 95C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\package-manager\src\NodeResolver.js133118901287206461 0
 70C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\posthtml\readme.md133118901281457352 0
@@ -1939,7 +1943,7 @@
 71C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\watcher\src133118901287366309 1
 80C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\htmlnano\docs\versioned_docs133118901289469145 1
 87C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\features\webvr.js133118901302241069 0
-64C:\Users\Paul\Desktop\Portfolio\trillo\dist\favicon.8b2f57bf.png133130037490584988 0
+64C:\Users\Paul\Desktop\Portfolio\trillo\dist\favicon.8b2f57bf.png133135860076406455 0
 60C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\lmdb\src133118901291317266 1
 104C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js133118901285523183 0
 72C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.bin\detect-libc.ps1133118901302890404 0
@@ -2203,7 +2207,7 @@
 88C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\css-tree\lib\syntax\node\Selector.js133118901291517051 0
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\regions\KZ.js133118901297615814 0
 103C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.js133118901281767032 0
-63C:\Users\Paul\Desktop\Portfolio\trillo\dist\sprite.e70822e0.svg133130037491054511 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\sprite.e70822e0.svg133135860075122768 0
 101C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js133118901282521259 0
 94C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\htmlnano\lib\modules\collapseWhitespace.js133118901283195566 0
 98C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\node-resolver-core\test\fixture\foo.js133118901287146522 0
@@ -2363,6 +2367,7 @@
 88C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\bundler-default\package.json133118901281312496 0
 66C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\dotenv\LICENSE133118901280068769 0
 71C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\dotenv\package.json133118901276931983 0
+75C:\Users\Paul\Desktop\Portfolio\trillo\dist\chevron-thin-right.1223612e.svg133135529176979940 0
 86C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\events\src\ValueEmitter.js133118901284883837 0
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\regions\GR.js133118901296107352 0
 68C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\domutils\LICENSE133118901276842069 0
@@ -2925,6 +2930,7 @@
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\regions\NR.js133118901299049340 0
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\regions\NU.js133118901299064321 0
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\regions\PF.js133118901299588785 0
+61C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.3c02bcef.js133135529176989931 0
 96C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\transformer-html\lib\dependencies.js133118901278420456 0
 84C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\packager-js\lib\index.js133118901285283437 0
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\regions\PH.js133118901299638734 0
@@ -2959,7 +2965,7 @@
 102C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node133118901291062513 1
 90C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\core\test\fixtures\module-b.js133118901291012568 0
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\regions\WF.js133118901302311000 0
-75C:\Users\Paul\Desktop\Portfolio\trillo\dist\chevron-thin-right.7f986135.svg133130037491054511 0
+75C:\Users\Paul\Desktop\Portfolio\trillo\dist\chevron-thin-right.7f986135.svg133135860076801054 0
 78C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\fs\src\MemoryFS.js133118901283645115 0
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\regions\WS.js133118901302405904 0
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\regions\YE.js133118901302490813 0
@@ -3142,6 +3148,7 @@
 87C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\optimizer-svgo\package.json133118901280773048 0
 99C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\features\css3-cursors-grab.js133118901294204296 0
 90C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\runtime-js\src\helpers\browser133118901288315332 1
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-4.06550cf0.jpg133135529174922046 0
 94C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\features\css3-tabsize.js133118901294239259 0
 97C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\caniuse-lite\data\features\custom-elements.js133118901294299201 0
 77C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@jridgewell\trace-mapping133118901283335425 1
@@ -3615,6 +3622,7 @@
 102C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133118901302895402 0
 100C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@swc\helpers\lib\_initializer_define_property.js133118901288969657 0
 126C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm.js133118901285203509 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-6.f800b237.jpg133135529174927040 0
 99C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@swc\helpers\lib\_initializer_warning_helper.js133118901289044579 0
 83C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@swc\helpers\lib\_instanceof.js133118901289114507 0
 91C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@swc\helpers\lib\_is_native_function.js133118901289324293 0
@@ -3845,7 +3853,7 @@
 80C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\transformer-html\lib133118901282561217 1
 84C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\transformer-html\LICENSE133118901276971938 0
 119C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module133118901291282291 1
-63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-5.4a06fdcf.jpg133130037490724843 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-5.4a06fdcf.jpg133135860076341522 0
 89C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\transformer-html\package.json133118901283839910 0
 90C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\transformer-html\src\inline.js133118901283455300 0
 108C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133118901293200324 0
@@ -4323,7 +4331,7 @@
 104C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@babel\highlight\node_modules\color-convert\index.js133118901280563262 0
 108C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@babel\highlight\node_modules\color-convert\package.json133118901277071834 0
 104C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@babel\highlight\node_modules\color-convert\route.js133118901283150611 0
-63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-3.406322a8.jpg133130037490729840 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-3.406322a8.jpg133135860076336526 0
 96C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@babel\highlight\node_modules\chalk\index.js133118901278230650 0
 101C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@babel\highlight\node_modules\chalk\index.js.flow133118901279224639 0
 97C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\@babel\highlight\node_modules\chalk\readme.md133118901281552251 0
@@ -4363,7 +4371,7 @@
 63C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.bin\parcel133118901302900396 0
 67C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.bin\parcel.ps1133118901302895402 0
 61C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.bin\sass133118913516233152 0
-63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-1.f13b390a.jpg133130037490734836 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-1.f13b390a.jpg133135860076341522 0
 65C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.bin\sass.cmd133118913516233152 0
 65C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.bin\sass.ps1133118913516233152 0
 63C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.bin\semver133118901302900396 0
@@ -4375,14 +4383,26 @@
 63C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.bin\terser133118901302985308 0
 67C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.bin\terser.cmd133118901302980319 0
 67C:\Users\Paul\Desktop\Portfolio\trillo\node_modules\.bin\terser.ps1133118901302980319 0
-64C:\Users\Paul\Desktop\Portfolio\trillo\dist\hotel-1.6732cd15.jpg133130037490939630 0
-64C:\Users\Paul\Desktop\Portfolio\trillo\dist\hotel-2.928c464c.jpg133130037490974589 0
-64C:\Users\Paul\Desktop\Portfolio\trillo\dist\hotel-3.4c9517a8.jpg133130037490934628 0
-61C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.18dbc454.js133130037490774800 0
-65C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.18dbc454.js.map133130037490964601 0
-62C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.8c1c22dc.css133130037490055531 0
-54C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.html133130037490060527 0
-61C:\Users\Paul\Desktop\Portfolio\trillo\dist\logo.726d37a8.png133130037490724843 0
-63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-2.4f30edbb.jpg133130037490589984 0
-63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-4.fe0efc17.jpg133130037490584988 0
-63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-6.7610df83.jpg133130037490714853 0
+64C:\Users\Paul\Desktop\Portfolio\trillo\dist\favicon.996d8a39.png133135529174902072 0
+64C:\Users\Paul\Desktop\Portfolio\trillo\dist\hotel-1.05d5f3b2.jpg133135529174917051 0
+64C:\Users\Paul\Desktop\Portfolio\trillo\dist\hotel-1.6732cd15.jpg133135860076915934 0
+64C:\Users\Paul\Desktop\Portfolio\trillo\dist\hotel-2.5ad43d7a.jpg133135529154363087 0
+64C:\Users\Paul\Desktop\Portfolio\trillo\dist\hotel-2.928c464c.jpg133135860076925926 0
+64C:\Users\Paul\Desktop\Portfolio\trillo\dist\hotel-3.4c9517a8.jpg133135860076900949 0
+64C:\Users\Paul\Desktop\Portfolio\trillo\dist\hotel-3.668f5541.jpg133135529174917051 0
+61C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.18dbc454.js133135860076346516 0
+65C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.18dbc454.js.map133135860076741113 0
+65C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.3c02bcef.js.map133135529177109806 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\sprite.34e25a79.svg133135529176979940 0
+62C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.8c1c22dc.css133135860076346516 0
+61C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.b3470a88.js133135529176989931 0
+65C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.b3470a88.js.map133135529177109806 0
+66C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.ff81dd70.css.map133135529177114805 0
+54C:\Users\Paul\Desktop\Portfolio\trillo\dist\index.html133135860075302585 0
+61C:\Users\Paul\Desktop\Portfolio\trillo\dist\logo.1b2cf5f9.png133135529154353092 0
+61C:\Users\Paul\Desktop\Portfolio\trillo\dist\logo.726d37a8.png133135860076336526 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-2.4f30edbb.jpg133135860076421439 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-3.0744d4e8.jpg133135529154358088 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-4.fe0efc17.jpg133135860076421439 0
+63C:\Users\Paul\Desktop\Portfolio\trillo\dist\user-6.7610df83.jpg133135860076421439 0
+61C:\Users\Paul\Desktop\Portfolio\trillo\dist\user.b6a5a95b.jpg133135529154358088 0
